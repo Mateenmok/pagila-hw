@@ -1,5 +1,5 @@
 # pagila-hw
-[![](https://github.com/mikeizbicki/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/mikeizbicki/pagila-hw/actions?query=workflow%3Atests)
+[![](https://github.com/Mateenmok/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/Mateenmok/pagila-hw/actions?query=workflow%3Atests)
 
 ## Background
 
@@ -23,7 +23,7 @@ The following picture illustrates the database's structure:
     By default, cloning a repo does not also give you the files in the submodules.
     To get these files, you must run the following full sequence of commands:
     ```
-    $ git clone https://github.com/mikeizbicki/pagila-hw
+    $ git clone https://github.com/Mateenmok/pagila-hw
     $ cd pagila-hw
     $ git submodule init
     $ git submodule update
